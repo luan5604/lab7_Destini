@@ -1,16 +1,7 @@
-# lab7_destini
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔮 Lab 7: Boss Level Challenge 2 - Destini  
+**Mục tiêu:** Phát triển ứng dụng tương tác có logic phân nhánh giống như tiểu thuyết tương tác.  
+**Nội dung:**  
+- Tạo một ứng dụng kể chuyện tương tác (Interactive Story App).  
+- Mỗi lựa chọn của người dùng sẽ dẫn đến một tình huống hoặc kết thúc khác nhau.  
+- Học cách quản lý luồng câu chuyện bằng logic điều kiện.  
+- Sử dụng kỹ thuật tổ chức mã tương tự Lab 6.
